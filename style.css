@@ -1,0 +1,16 @@
+body {
+	background: aquamarine;
+}
+
+red{
+	color: red;
+}
+
+.grid-container {
+  display: grid;
+  grid: 150px / auto auto auto;
+}
+#mainHeadding{
+	font-family: sans-serif;
+	color: blue;
+}
